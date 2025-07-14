@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shri Siddhivinayaka Geleyara Balaga</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background: #fff9f2;
+      color: #333;
+    }
+    header {
+      background: #8b0000;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background: #f1e4dc;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: #8b0000;
+      text-decoration: none;
+      margin: 0 1rem;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 960px;
+      margin: auto;
+    }
+    h2 {
+      color: #8b0000;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 0.5rem;
+    }
+    .bilingual {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+    .lang {
+      background: #fff3e6;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+    .lang h3 {
+      margin-top: 0;
+      color: #5c0a00;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      background: #8b0000;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    .divider {
+      margin: 2rem 0;
+      text-align: center;
+      font-size: 1.5rem;
+      color: #ccc;
+    }
+    a {
+      color: #8b0000;
+      text-decoration: none;
+    }
+    @media (min-width: 768px) {
+      .bilingual {
+        flex-direction: row;
+      }
+      .lang {
+        flex: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Shri Siddhivinayaka Geleyara Balaga</h1>
+    <p>Bettahalasuru, Bengaluru, Karnataka, India</p>
+    <p>Established in 1988</p>
+  </header>
+
+  <nav>
+    <a href="#about">About / ಬಗ್ಗೆ</a>
+    <a href="#journey">Journey / ಪಯಣ</a>
+    <a href="#mission">Mission / ಗುರಿ</a>
+    <a href="#vision">Vision / ದೃಷ್ಟಿಕೋನ</a>
+    <a href="#contact">Contact / ಸಂಪರ್ಕ</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us / ಬಗ್ಗೆ</h2>
+    <div class="bilingual">
+      <
